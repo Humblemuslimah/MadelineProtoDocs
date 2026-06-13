@@ -1,3 +1,4 @@
+photos
 ---
 title: getFullDialogs
 description: getFullDialogs parameters, return type and example
